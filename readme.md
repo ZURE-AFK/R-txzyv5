@@ -1,17 +1,17 @@
 </p>
-<h1 align="center">R-TXZY-MD</h1>
+<h2 align="center">R-TXZY-MD</h2>
 
-<h1 align="center">Jangan lupa kasih stars & follow :)</h1>
+<h2 align="center">Jangan lupa kasih stars & follow :)</h2>
 
 >
 >
 >
 </div>
 <p align="center">
-<a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=package&message=RTXZY-MD&color=blue"></a>
+<a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=package&message=RTXZY-MD&color=black"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/AlyaaXd"><img title="Author" src="https://img.shields.io/badge/Author-alya-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/AlyaaXd"><img title="Author" src="https://img.shields.io/badge/Author-verdihatoru-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
 <a href="#"><img title="mengapi" src="https://img.shields.io/static/v1?label=FREE&message=Apikey&color=blue"></a>
@@ -41,15 +41,15 @@
 > pkg install bash
 > pkg install ffmpeg
 > pkg install libwebp
-> git clone  https://github.com/BOTCAHX/R-TXZY-MD
-> cd RTXZY-MD 
+> git clone  https://github.com/verdihatorou/R-txzyv5
+> cd R-txzyv5 
 > npm i
 > node run.js
 
 ## untuk Sdcard (File yang Sudah Di Download)
 > cd /sdcard
-> cp -r RTXZY-MD $HOME
-> cd RTXZY-MD 
+> cp -r R-txzyv5 $HOME
+> cd R-txzyv5
 > npm i
 > node run.js
 ```
@@ -58,11 +58,11 @@
 
 Simple WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BOTCAHX/R-TXZY-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/verdihatorou/R-txzyv5)
 
 ## UNTUK PENGGUNA RAILWAY
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%BOTCAHX%RTXZY-MD)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/verdihatorou/R-txzyv5)
 
 # get Session [seesion.data.json] 
 
@@ -85,8 +85,8 @@ Choose your repo
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/BOTCAHX/R-TXZY-MD
-cd R-TXZY-MD
+git clone https://github.com/verdihatorou/R-txzyv5
+cd name sc 
 npm i
 npm start
 ```
