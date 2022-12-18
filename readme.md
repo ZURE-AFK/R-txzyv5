@@ -1,5 +1,5 @@
 </p>
-<h2 align="center">R-TXZY-MD</h2>
+<h2 align="center">R-txzyv5</h2>
 
 <h2 align="center">Jangan lupa kasih stars & follow :)</h2>
 
@@ -8,13 +8,13 @@
 >
 </div>
 <p align="center">
-<a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=package&message=RTXZY-MD&color=black"></a>
+<a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=package&message=R-txzyv5&color=black"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/AlyaaXd"><img title="Author" src="https://img.shields.io/badge/Author-verdihatoru-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/AlyaaXd"><img title="Author" src="https://img.shields.io/badge/Author-verdihatoru-pink.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
-<a href="#"><img title="mengapi" src="https://img.shields.io/static/v1?label=FREE&message=Apikey&color=blue"></a>
+<a href="#"><img title="mengapi" src="https://img.shields.io/static/v1?label=FREE&message=Apikey&color=yelow"></a>
 </p>
   
 <a href="https://visitor-badge.glitch.me/badge?page_id=BOTCAHX/R-TXZY-MD"><img title="Visitor" src="https://visitor-badge.glitch.me/badge?page_id=BOTCAHX/R-TXZY-MD"></a>
@@ -192,10 +192,8 @@ conn.logger.level = 'debug'
 
 #contact person
 
- [`AlyaXzy`](https://wa.me/6289505165400)
-
  [`BOTCAHX`](https://wa.me/6282221792667)
  
  [`Verdi`](https://wa.me/6285706735450)
  
- [`Radhin`](https://wa.me/6282373158947)
+ 
