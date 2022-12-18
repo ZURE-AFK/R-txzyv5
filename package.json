@@ -1,5 +1,5 @@
 {
-    "name": "rtxzy-Md",
+    "name": "R-txzyv5",
     "version": "3.5.4",
     "description": "WhatsApp Multy Device",
     "depecrated": false,
@@ -29,14 +29,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/github.com/BOTCAHX/BOTWA-2022.git"
+        "url": "git+https://github.com/verdihatorou/R-txzyv5.git"
     },
     "bugs": {
-        "url": "https://github.com/github.com/BOTCAHX/BOTWA-2022/issues"
+        "url": "https://github.com/verdihatorou/R-txzyv5/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@adiwajshing/baileys": "^4.1.0",
+        "@adiwajshing/baileys": "^4.4.0",
         "awesome-phonenumber": "^2.64.0",
         "axios": "^0.24.0",
         "@bochilteam/scraper": "^2.0.0",
